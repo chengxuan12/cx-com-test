@@ -1,10 +1,10 @@
 {
-  "name": "@chengxuan12/cx-com-test",
+  "name": "cx-com-test",
   "description": "cx-test project",
   "version": "1.0.0",
-  "author": "“chengxuan” <chengxuan@zto.cn>",
-  "license": "ISC",
-  "private": true,
+  "author": "chengxuan <chengxuan@zto.cn>",
+  "license": "MIT",
+  "private": false,
   "main": "dist/vue-pay-keyboard.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
